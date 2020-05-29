@@ -133,10 +133,10 @@
             <UseExternalTool>0</UseExternalTool>
             <RunIndependent>0</RunIndependent>
             <UpdateFlashBeforeDebugging>1</UpdateFlashBeforeDebugging>
-            <Capability>0</Capability>
+            <Capability>1</Capability>
             <DriverSelection>-1</DriverSelection>
           </Flash1>
-          <bUseTDR>0</bUseTDR>
+          <bUseTDR>1</bUseTDR>
           <Flash2>BIN\UL2CM3.DLL</Flash2>
           <Flash3></Flash3>
           <Flash4></Flash4>
@@ -388,24 +388,24 @@
               <FilePath>.\Src\main.c</FilePath>
             </File>
             <File>
-              <FileName>Trigo.asm</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\Src\Trigo.asm</FilePath>
-            </File>
-            <File>
               <FileName>startup-rvds.s</FileName>
               <FileType>2</FileType>
               <FilePath>.\Src\startup-rvds.s</FilePath>
             </File>
             <File>
-              <FileName>gfssp72.lib</FileName>
-              <FileType>4</FileType>
-              <FilePath>.\Src\gfssp72.lib</FilePath>
+              <FileName>son.s</FileName>
+              <FileType>2</FileType>
+              <FilePath>.\Src\son.s</FilePath>
             </File>
             <File>
-              <FileName>calculDFT.s</FileName>
+              <FileName>bruitverre.asm</FileName>
               <FileType>2</FileType>
-              <FilePath>.\Src\calculDFT.s</FilePath>
+              <FilePath>.\Src\bruitverre.asm</FilePath>
+            </File>
+            <File>
+              <FileName>gassp72.lib</FileName>
+              <FileType>4</FileType>
+              <FilePath>.\Src\gassp72.lib</FilePath>
             </File>
           </Files>
         </Group>
