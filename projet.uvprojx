@@ -388,34 +388,24 @@
               <FilePath>.\Src\main.c</FilePath>
             </File>
             <File>
-              <FileName>td_sub.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\Src\td_sub.s</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>Matlab</GroupName>
-          <Files>
-            <File>
               <FileName>Trigo.asm</FileName>
               <FileType>2</FileType>
               <FilePath>.\Src\Trigo.asm</FilePath>
             </File>
             <File>
-              <FileName>Signal.asm</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\Src\Signal.asm</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>Sys</GroupName>
-          <Files>
-            <File>
               <FileName>startup-rvds.s</FileName>
               <FileType>2</FileType>
               <FilePath>.\Src\startup-rvds.s</FilePath>
+            </File>
+            <File>
+              <FileName>gfssp72.lib</FileName>
+              <FileType>4</FileType>
+              <FilePath>.\Src\gfssp72.lib</FilePath>
+            </File>
+            <File>
+              <FileName>calculDFT.s</FileName>
+              <FileType>2</FileType>
+              <FilePath>.\Src\calculDFT.s</FilePath>
             </File>
           </Files>
         </Group>
