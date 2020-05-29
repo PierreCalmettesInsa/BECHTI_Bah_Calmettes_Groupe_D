@@ -13,6 +13,9 @@ obj3 : son
 
 obj4 : projet_final
 
+Le git est composé de 4 branches : objectif_1, Objectif_2 , Objectif_3 , master  (attention petite erreur le o est minuscule pour la branche 1 mais majuscule pour les deux autres)
+Le readme se trouve dans la branche master.
+
 
 
 DFT Challenge :
