@@ -133,10 +133,10 @@
             <UseExternalTool>0</UseExternalTool>
             <RunIndependent>0</RunIndependent>
             <UpdateFlashBeforeDebugging>1</UpdateFlashBeforeDebugging>
-            <Capability>1</Capability>
+            <Capability>0</Capability>
             <DriverSelection>-1</DriverSelection>
           </Flash1>
-          <bUseTDR>1</bUseTDR>
+          <bUseTDR>0</bUseTDR>
           <Flash2>BIN\UL2CM3.DLL</Flash2>
           <Flash3></Flash3>
           <Flash4></Flash4>
@@ -383,9 +383,9 @@
           <GroupName>Source Group 1</GroupName>
           <Files>
             <File>
-              <FileName>main.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Src\main.c</FilePath>
+              <FileName>Trigo.asm</FileName>
+              <FileType>2</FileType>
+              <FilePath>.\Src\Trigo.asm</FilePath>
             </File>
             <File>
               <FileName>startup-rvds.s</FileName>
@@ -393,9 +393,9 @@
               <FilePath>.\Src\startup-rvds.s</FilePath>
             </File>
             <File>
-              <FileName>son.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\Src\son.s</FilePath>
+              <FileName>gfssp72.lib</FileName>
+              <FileType>4</FileType>
+              <FilePath>.\Src\gfssp72.lib</FilePath>
             </File>
             <File>
               <FileName>bruitverre.asm</FileName>
@@ -403,9 +403,14 @@
               <FilePath>.\Src\bruitverre.asm</FilePath>
             </File>
             <File>
-              <FileName>gassp72.lib</FileName>
-              <FileType>4</FileType>
-              <FilePath>.\Src\gassp72.lib</FilePath>
+              <FileName>calcul.s</FileName>
+              <FileType>2</FileType>
+              <FilePath>.\Src\calcul.s</FilePath>
+            </File>
+            <File>
+              <FileName>main.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Src\main.c</FilePath>
             </File>
           </Files>
         </Group>
